@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Kamus" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2F6FED</item>
+        <item name="colorSecondary">#3DDC84</item>
+        <item name="android:statusBarColor">#2F6FED</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

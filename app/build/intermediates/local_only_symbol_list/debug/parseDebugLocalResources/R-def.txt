@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+id bottomNav
+id btnSimpan
+id etCari
+id etIndonesia
+id etInggris
+id menu_cari
+id menu_daftar
+id menu_tambah
+id nav_graph
+id nav_host_fragment
+id rvDaftar
+id rvHasil
+id txtIndonesia
+id txtInggris
+id txtJumlah
+id txtKosong
+layout activity_main
+layout fragment_cari
+layout fragment_daftar
+layout fragment_tambah
+layout item_kata
+menu bottom_nav_menu
+navigation nav_graph
+string app_name
+style Theme.Kamus

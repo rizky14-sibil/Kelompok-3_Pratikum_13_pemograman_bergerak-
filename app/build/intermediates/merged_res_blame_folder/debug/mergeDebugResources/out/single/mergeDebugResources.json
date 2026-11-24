@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.kamus.app-debug-48:/layout_item_kata.xml.flat",
+        "source": "com.example.kamus.app-main-50:/layout/item_kata.xml"
+    },
+    {
+        "merged": "com.example.kamus.app-debug-48:/layout_fragment_cari.xml.flat",
+        "source": "com.example.kamus.app-main-50:/layout/fragment_cari.xml"
+    },
+    {
+        "merged": "com.example.kamus.app-debug-48:/navigation_nav_graph.xml.flat",
+        "source": "com.example.kamus.app-main-50:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.kamus.app-debug-48:/layout_fragment_tambah.xml.flat",
+        "source": "com.example.kamus.app-main-50:/layout/fragment_tambah.xml"
+    },
+    {
+        "merged": "com.example.kamus.app-debug-48:/layout_activity_main.xml.flat",
+        "source": "com.example.kamus.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kamus.app-debug-48:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.kamus.app-main-50:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.kamus.app-debug-48:/layout_fragment_daftar.xml.flat",
+        "source": "com.example.kamus.app-main-50:/layout/fragment_daftar.xml"
+    }
+]

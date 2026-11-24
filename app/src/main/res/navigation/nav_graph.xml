@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/menu_tambah">
+    <fragment android:id="@+id/menu_tambah" android:name="com.example.kamus.TambahFragment" android:label="Tambah" />
+    <fragment android:id="@+id/menu_cari" android:name="com.example.kamus.CariFragment" android:label="Cari" />
+    <fragment android:id="@+id/menu_daftar" android:name="com.example.kamus.DaftarFragment" android:label="Daftar" />
+</navigation>
